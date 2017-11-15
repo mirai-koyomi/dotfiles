@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
+    "vim.disableAnnoyingNeovimMessage": true,
+    "files.autoGuessEncoding": true,
+    "editor.fontFamily": "Ricty Diminished Discord, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.renderWhitespace": "all",
+    "editor.minimap.renderCharacters": false,
+    "editor.tabSize": 2,
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*.txt": "html"
+    },
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "codic.ACCESS_TOKEN": "xsCSZiLcdDlMtRtZRk5scrVIJX3K56oXP",
+    "search.useIgnoreFiles": true,
+}

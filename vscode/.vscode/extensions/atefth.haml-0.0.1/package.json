@@ -1,0 +1,40 @@
+{
+	"name": "haml",
+	"displayName": "haml-syntax",
+	"description": "Syntax highlighting for HAML",
+	"version": "0.0.1",
+	"publisher": "atefth",
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "haml",
+				"aliases": [
+					"Ruby Haml",
+					"haml"
+				],
+				"extensions": [
+					".haml"
+				],
+				"configuration": "./haml.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "haml",
+				"scopeName": "text.haml",
+				"path": "./syntaxes/haml.tmLanguage"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d310d698-60e2-47d8-805a-85b6e48fecc5",
+		"publisherId": "73800096-beb7-414d-9283-e8f2d4b9c031",
+		"publisherDisplayName": "Atef Haque"
+	}
+}

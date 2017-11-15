@@ -1,0 +1,62 @@
+{
+	"name": "whitespace-plus",
+	"displayName": "Whitespace+",
+	"description": "Clearly mark whitespace characters (including trailing) and custom patterns.",
+	"version": "0.0.5",
+	"publisher": "davidhouchin",
+	"readme": "README.md",
+	"icon": "icon.png",
+	"license": "LICENSE",
+	"keywords": [
+		"whitespace",
+		"regex",
+		"pattern",
+		"highlight",
+		"trailing"
+	],
+	"bugs": {
+		"url": "https://www.github.com/davidhouchin/whitespace-plus/issues"
+	},
+	"homepage": "https://github.com/davidhouchin/whitespace-plus/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://www.github.com/davidhouchin/whitespace-plus.git"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"*"
+	],
+	"main": "./extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.toggleWhitespacePlus",
+				"title": "Whitespace+ Toggle"
+			},
+			{
+				"command": "extension.toggleWhitespacePlusMode",
+				"title": "Whitespace+ Mode"
+			},
+			{
+				"command": "extension.configWhitespacePlus",
+				"title": "Whitespace+ Config"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"vscode": "^0.11.0"
+	},
+	"__metadata": {
+		"id": "126d3753-1482-4421-afb8-82c43037cbfa",
+		"publisherId": "cbdb8fdc-f5bb-42a2-baf8-1735edda506e",
+		"publisherDisplayName": "David Houchin"
+	}
+}

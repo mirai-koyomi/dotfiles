@@ -1,0 +1,56 @@
+[
+	{
+		"name": "r.hata.pc.code",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/r.hata.pc.code",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "trn.task",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/trn.task",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "r.trn.sp.code",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/r.trn.sp.code",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "r.hata.sp.code",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/r.hata.sp.code",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "hat.task",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/hat.task",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "include_creater",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/useful.prohram/include_creater",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "r.trn.pc.code",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/r.trn.pc.code",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "my_react_app",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/my_react_app",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "mail_generator",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/mail_generator",
+		"paths": [],
+		"group": ""
+	}
+]
