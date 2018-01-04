@@ -52,5 +52,17 @@
 		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/mail_generator",
 		"paths": [],
 		"group": ""
+	},
+	{
+		"name": "r.staging.links",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/r.staging.links/r.staging.links",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "document",
+		"rootPath": "/Applications/XAMPP/xamppfiles/htdocs/devel/adt/document",
+		"paths": [],
+		"group": ""
 	}
 ]
